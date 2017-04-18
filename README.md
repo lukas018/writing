@@ -1,8 +1,10 @@
 # English and Japanese Writing Practice
-English and Japanese Writing Practice ルーカス＆キム 
-# Rule
-1. upload draft everyday 
-2. check eachother's draft and upload correction!
+English and Japanese Writing Practice 原田とビクトル 
+# Rules
+1. Upload a draft everyday 
+2. Check each other's drafts and upload correction!
+# Examples
+See example folder for structure example and how to perform corrections.
 # Writing Topics
 ![writing-topic1](./writing-topic1.jpg)
 ![writing-topic2](./writing-topic2.jpg)
