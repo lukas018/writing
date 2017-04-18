@@ -11,6 +11,6 @@ See example folder for structure example and how to perform corrections.
 ![writing-topic3](./writing-topic3.jpg)
 
 ## Materials
-* http://www.hackerstoefl.com/?c=data/toefldata&p=6&uid=307536
+* https://www.youtube.com/results?search_query=easy+english
 * https://www.youtube.com/results?search_query=walking+up+podcast
 * https://www.youtube.com/results?search_query=jlpt+listening+n3+part+1
